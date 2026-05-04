@@ -54,7 +54,7 @@
     {
       "lang": "ru",
       "name": "Русский",
-      "path": "languages/ru.json"
+      "path": "lang/ru.json"
     },
     {
       "lang": "pt-BR",
